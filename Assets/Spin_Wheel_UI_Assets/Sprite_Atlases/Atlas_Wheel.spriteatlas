@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Wheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e01c7af8350a3f34fb6df167b7e93df2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a8893a9287e16794aa82457891736ce6, type: 3}
+  - {fileID: 21300000, guid: d48c5474f5883424dbeb6e2a2cbd7fe7, type: 3}
+  - {fileID: 21300000, guid: 08205118460d07d40b22744fa8f2e390, type: 3}
+  - {fileID: 21300000, guid: c9ea1879d63768346a5ca599e6cfedf0, type: 3}
+  - {fileID: 21300000, guid: e9a4dd4a7eb22104fb1d5319f2992631, type: 3}
+  - {fileID: 21300000, guid: 478a8f1c39083ec40adcaf1b9ded06c8, type: 3}
+  - {fileID: 21300000, guid: 4392eebea9e0d8445ab1cdd517b932e8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_spin_silver_base
+  - ui_spin_generic_button
+  - ui_spin_bronze_indicator
+  - ui_spin_golden_base
+  - ui_spin_bronze_base
+  - ui_spin_golden_indicator
+  - ui_spin_silver_indicator
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Wheel
+  m_IsVariant: 0

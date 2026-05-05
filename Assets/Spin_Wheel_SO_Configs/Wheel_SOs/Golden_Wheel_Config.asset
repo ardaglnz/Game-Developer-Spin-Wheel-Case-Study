@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0073d5c9030291e48a70e6eddeea4497, type: 3}
+  m_Name: Golden_Wheel_Config
+  m_EditorClassIdentifier: 
+  wheelType: 2
+  slices_value:
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: 90a6a1bbd6cb20e448424132ca4eb89a, type: 2}
+    Weight: 20
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: 8b6a58fdd0f86fb44b9bf4cdd5d720f2, type: 2}
+    Weight: 15
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: 3ccd02140e9195a46a8765ee524f6879, type: 2}
+    Weight: 15
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: ed34236b7c6dcbc49baf5962d31465f2, type: 2}
+    Weight: 10
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: 7fbd5e30cf5f0ad44881c816e70edbf2, type: 2}
+    Weight: 10
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: bc6ee6a4fb0ff3d43bbb47858ba9786c, type: 2}
+    Weight: 10
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: ec7b3d85a4169de4aa06a95a8e077ade, type: 2}
+    Weight: 10
+  - SliceType: 0
+    RewardConfig: {fileID: 11400000, guid: 44af417df34767e41bfcc3ccf121a6de, type: 2}
+    Weight: 10

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_CoreUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 03c5a1c3f9ad80f4899e592cb34d7b37, type: 3}
+    - {fileID: 102900000, guid: 563271e147c1110488de25919370d449, type: 3}
+    - {fileID: 102900000, guid: 880680a96fecd6a4e968e0caae147779, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 159f5081e128e334399820cf9fda696a, type: 3}
+  - {fileID: 21300000, guid: 90413dd15c6268c4f8fcca7147e9dd43, type: 3}
+  - {fileID: 21300000, guid: 8f526023bdd263a46a8be5b9f1a92503, type: 3}
+  - {fileID: 21300000, guid: 18cba8d3d6cf7054d815296e72a2c12c, type: 3}
+  - {fileID: 21300000, guid: 2bf303351fafde14b8afea3c83453196, type: 3}
+  - {fileID: 21300000, guid: 28bada85268debd4195e8470356c3745, type: 3}
+  - {fileID: 21300000, guid: 1e24cc859fc0dbb43b67fe14285fae26, type: 3}
+  - {fileID: 21300000, guid: 5e7fbfc764b5099448c4576320318c2f, type: 3}
+  - {fileID: 21300000, guid: febd5f88ce273354c82d9679b9425b8a, type: 3}
+  - {fileID: 21300000, guid: 8d957bb8cd3e8974dba3c303aa21ae52, type: 3}
+  - {fileID: 21300000, guid: 4efce35ac4a622440b132d62ad5bd020, type: 3}
+  - {fileID: 21300000, guid: ebb9e5ea66c59d7459b763f0f414ecd0, type: 3}
+  - {fileID: 21300000, guid: 211a2cdc6c6795146a2b0f51061f69d0, type: 3}
+  - {fileID: 21300000, guid: f6ff336d90a30564f9337e0b90c7997d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_card_panel_zone_current_white
+  - ui_card_panel_zone_super
+  - ui_card_frame_12px_neutral
+  - ui_card_frame_4px_zone
+  - UI_button_orange_standard
+  - ui_card_panel_zone_white
+  - star_flash_alpha
+  - ui_card_panel_zone_current
+  - star_glow_alpha
+  - ui_card_panel_zone_bg
+  - ui_card_frame_gardient
+  - UI_button_grey_standard
+  - ui_vfx_offer_shine
+  - ui_card_panel_zone_coming
+  m_RenderDataMap: {}
+  m_Tag: Atlas_CoreUI
+  m_IsVariant: 0

@@ -1,0 +1,1072 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|c:\\users\\ardag\\onedrive\\masa\u00FCst\u00FC\\create with code\\vertigogames_casestudy\\assets\\spin_wheel_scripts\\service_scripts\\economyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\service_scripts\\economyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\service_scripts\\spinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\service_scripts\\spinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\service_scripts\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\service_scripts\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\view_scripts\\bombpopupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\view_scripts\\bombpopupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\view_scripts\\mainhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\view_scripts\\mainhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\view_scripts\\wheelanimationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\view_scripts\\wheelanimationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\view_scripts\\wheelprogressview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\view_scripts\\wheelprogressview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\view_scripts\\rewarddisplayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\view_scripts\\rewarddisplayview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\ui_scripts\\rewardslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\ui_scripts\\rewardslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\strategies\\rewardresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\strategies\\rewardresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\strategies\\bombresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\strategies\\bombresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\service_scripts\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\service_scripts\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\managers\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\managers\\zonemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\managers\\wheelthememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\managers\\wheelthememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\managers\\gamestatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\interfaces\\ispinnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\interfaces\\ispinnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\interfaces\\izoneevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\interfaces\\izoneevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\interfaces\\isliceresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\interfaces\\isliceresultstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\factories\\wheelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\factories\\wheelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\data_classes\\slicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\data_classes\\slicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\data_classes\\rewarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\data_classes\\rewarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\config_scripts\\rewardconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\config_scripts\\rewardconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\config_scripts\\wheelconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\config_scripts\\wheelconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\config_scripts\\zoneconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\config_scripts\\zoneconfigso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\assets\\spin_wheel_scripts\\base_classes\\basewheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8735C6-1858-CFA4-33D2-B3C9FA5DC29B}|Assembly-CSharp.csproj|solutionrelative:assets\\spin_wheel_scripts\\base_classes\\basewheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\RewardDisplayManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RewardDisplayManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\MainHUDView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Editor\\MainHUDView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\SpinService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Editor\\SpinService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\GameSignals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Editor\\GameSignals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WheelFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpinService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\States\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\States\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinButtonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpinButtonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\BombPopupView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BombPopupView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WheelView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelUIBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WheelUIBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelSliceUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WheelSliceUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\UIRewardSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIRewardSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GameUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GoldManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GoldManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainHUDView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\MainHUDView.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\MainHUDView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\MainHUDView.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\MainHUDView.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:36.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BombResultStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Strategies\\BombResultStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Strategies\\BombResultStrategy.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Strategies\\BombResultStrategy.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Strategies\\BombResultStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:02:12.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\State_Scripts\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:01:46.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GameSignals.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Signals\\GameSignals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:01:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\TransactionService.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:00:11.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GoldenWheel.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\GoldenWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NormalWheel.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\NormalWheel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:49.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RewardSlotUI.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\UI_Scripts\\RewardSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\UI_Scripts\\RewardSlotUI.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\UI_Scripts\\RewardSlotUI.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\UI_Scripts\\RewardSlotUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:06:20.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BombPopupView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\BombPopupView.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\BombPopupView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\BombPopupView.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\BombPopupView.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:08:10.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\InventoryService.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:56:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EconomyService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\EconomyService.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\EconomyService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\EconomyService.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\EconomyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:54:39.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpinService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\SpinService.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\SpinService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Service_Scripts\\SpinService.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Service_Scripts\\SpinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:42:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RewardResultStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Strategies\\RewardResultStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Strategies\\RewardResultStrategy.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Strategies\\RewardResultStrategy.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Strategies\\RewardResultStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:02:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RewardDisplayView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\RewardDisplayView.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\RewardDisplayView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\RewardDisplayView.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\RewardDisplayView.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:14:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WheelAnimationView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelAnimationView.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelAnimationView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelAnimationView.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelAnimationView.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:19:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WheelProgressView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelProgressView.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelProgressView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelProgressView.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\View_Scripts\\WheelProgressView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:23:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WheelThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\WheelThemeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Managers\\WheelThemeManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\WheelThemeManager.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Managers\\WheelThemeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:47:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RewardType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\RewardType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SliceType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\SliceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:35.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WheelType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Type_Classes\\WheelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISliceResultStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\ISliceResultStrategy.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Interfaces\\ISliceResultStrategy.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\ISliceResultStrategy.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Interfaces\\ISliceResultStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:38:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RewardConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\RewardConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\RewardConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\RewardConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\RewardConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T01:05:41.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WheelConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\WheelConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\WheelConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\WheelConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\WheelConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T01:13:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ZoneConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\ZoneConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\ZoneConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Config_Scripts\\ZoneConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Config_Scripts\\ZoneConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T01:08:16.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RewardData.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Classes\\RewardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data_Classes\\RewardData.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Classes\\RewardData.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data_Classes\\RewardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:03:24.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SliceData.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Classes\\SliceData.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data_Classes\\SliceData.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Classes\\SliceData.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data_Classes\\SliceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:03:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISpinnable.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\ISpinnable.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Interfaces\\ISpinnable.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\ISpinnable.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Interfaces\\ISpinnable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:42:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IZoneEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\IZoneEvaluator.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Interfaces\\IZoneEvaluator.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\IZoneEvaluator.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Interfaces\\IZoneEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:50:45.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameStateManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\GameStateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Managers\\GameStateManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\GameStateManager.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Managers\\GameStateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:59:26.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZoneManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\ZoneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Managers\\ZoneManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\ZoneManager.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Managers\\ZoneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:59:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Assets\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\InventoryService.cs",
+              "RelativeToolTip": "Assets\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:56:52.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainHUDView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\MainHUDView.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\MainHUDView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\MainHUDView.cs",
+              "RelativeToolTip": "Assets\\Editor\\MainHUDView.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:10:36.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WheelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Factories\\WheelFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Factories\\WheelFactory.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Factories\\WheelFactory.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Factories\\WheelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:36:38.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRewardCollector.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Interfaces\\IRewardCollector.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:50:32.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RewardDisplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\RewardDisplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RewardDisplayManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\RewardDisplayManager.cs",
+              "RelativeToolTip": "Assets\\RewardDisplayManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:36:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SpinButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\SpinButtonController.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinButtonController.cs",
+              "RelativeToolTip": "Assets\\SpinButtonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:36:33.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\States\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\States\\GameState.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\States\\GameState.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\States\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:04:23.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WheelSpinEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Event_Scripts\\WheelSpinEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:31:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RewardManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Managers\\RewardManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:09:01.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "WheelUIBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Builders\\WheelUIBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:20:58.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BombPopupView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\BombPopupView.cs",
+              "RelativeDocumentMoniker": "Assets\\BombPopupView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\BombPopupView.cs",
+              "RelativeToolTip": "Assets\\BombPopupView.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:19:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseWheel.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseWheel.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseWheel.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseWheel.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:44:30.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SpinService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinService.cs",
+              "RelativeDocumentMoniker": "Assets\\SpinService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\SpinService.cs",
+              "RelativeToolTip": "Assets\\SpinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:25:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WheelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\WheelFactory.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelFactory.cs",
+              "RelativeToolTip": "Assets\\WheelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:29:00.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GameSignals.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\GameSignals.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\GameSignals.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\GameSignals.cs",
+              "RelativeToolTip": "Assets\\Editor\\GameSignals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:09:31.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SpinService.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\SpinService.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\SpinService.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Editor\\SpinService.cs",
+              "RelativeToolTip": "Assets\\Editor\\SpinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:10:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SilverWheel.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Wheel_Classes\\SilverWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:31:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SpinController.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Controllers\\SpinController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:07:45.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WheelView.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelView.cs",
+              "RelativeDocumentMoniker": "Assets\\WheelView.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelView.cs",
+              "RelativeToolTip": "Assets\\WheelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T09:59:47.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WheelUIBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelUIBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\WheelUIBuilder.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelUIBuilder.cs",
+              "RelativeToolTip": "Assets\\WheelUIBuilder.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T10:35:04.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WheelSliceUI.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelSliceUI.cs",
+              "RelativeDocumentMoniker": "Assets\\WheelSliceUI.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\WheelSliceUI.cs",
+              "RelativeToolTip": "Assets\\WheelSliceUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T10:21:29.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UIRewardSlot.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\UIRewardSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\UIRewardSlot.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\UIRewardSlot.cs",
+              "RelativeToolTip": "Assets\\UIRewardSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:36:40.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameUIManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\GameUIManager.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:10:24.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GoldManager.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GoldManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GoldManager.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\GoldManager.cs",
+              "RelativeToolTip": "Assets\\GoldManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:07:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseReward.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Base_Classes\\BaseReward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:58:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RewardConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\RewardConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:04:11.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WheelConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\WheelConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:02:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ZoneConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\SO_Config_Scripts\\ZoneConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:02:23.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RewardType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Types\\RewardType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:12:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WheelType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Types\\WheelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:12:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliceData.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data\\SliceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:58:43.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RewardData.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data\\RewardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:58:41.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SliceType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Types\\SliceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:58:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WheelType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data_Types\\WheelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:52:50.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SliceType.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\Data_Types\\SliceType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:52:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RewardConfigSO.cs",
+              "DocumentMoniker": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs",
+              "ToolTip": "C:\\Users\\ardag\\OneDrive\\Masa\u00FCst\u00FC\\Create With Code\\VertigoGames_CaseStudy\\Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs",
+              "RelativeToolTip": "Assets\\Spin_Wheel_Scripts\\RewardConfigSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T13:39:02.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
