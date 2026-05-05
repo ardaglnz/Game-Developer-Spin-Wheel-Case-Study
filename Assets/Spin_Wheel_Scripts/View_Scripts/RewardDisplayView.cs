@@ -11,6 +11,10 @@ public class RewardDisplayView : MonoBehaviour
     [SerializeField] private InventoryService _inventory;
     [SerializeField] private ZoneConfigSO _zoneConfig;
 
+    [Header("UI Settings - Instant Reward")]
+    [SerializeField] private Transform currentRewardUI; // Yeni açacaðýn current_reward objesi
+    [SerializeField] private float _instantDisplayDuration = 1f; // Ekranda kalma süresi
+
     [Header("Juice Settings (Items)")]
     [SerializeField] private float _popDuration = 0.4f; // Duration of the pop-in animation for slots
     [SerializeField] private float _popDelay = 0.1f;    // Delay between each reward card's appearance
@@ -21,6 +25,7 @@ public class RewardDisplayView : MonoBehaviour
     [SerializeField] private Ease _panelPopEase = Ease.OutBack; // Panel opening ease
 
     private readonly List<RewardSlotUI> _activeSlots = new();
+    private RewardSlotUI _lastInstantSlot;
 
     private void OnEnable()
     {
@@ -45,8 +50,36 @@ public class RewardDisplayView : MonoBehaviour
     }
 
     // Pulls the curent Inventory from InventoryService when the new reward occures
-    private void HandleRewardCollected(RewardData data) =>
-       RefreshDisplay(_inventory.GetAll());
+    private void HandleRewardCollected(RewardData data)
+    {
+
+        RefreshDisplay(_inventory.GetAll());
+        ShowInstantReward(data);
+    }
+
+    private void ShowInstantReward(RewardData data) // Shows the currently obtained reward from current zone
+    {
+        if (_lastInstantSlot != null)
+        {
+            _lastInstantSlot.transform.DOKill();
+            Destroy(_lastInstantSlot.gameObject);
+        }
+
+        // Creating slot
+        _lastInstantSlot = Instantiate(slotPrefab, currentRewardUI);
+        _lastInstantSlot.Setup(data);
+
+        _lastInstantSlot.transform.localScale = Vector3.zero;
+
+        Sequence s = DOTween.Sequence();
+        s.Append(_lastInstantSlot.transform.DOScale(Vector3.one, _popDuration).SetEase(_popEase));
+        s.AppendInterval(_instantDisplayDuration);
+        s.Append(_lastInstantSlot.transform.DOScale(Vector3.zero, _popDuration).SetEase(Ease.InBack));
+        s.OnComplete(() => {
+            if (_lastInstantSlot != null) Destroy(_lastInstantSlot.gameObject);
+        });
+    }
+
 
     public void RefreshDisplay(List<RewardData> currentLoot) // Refreshes the display when a new reward is obtained
     {
